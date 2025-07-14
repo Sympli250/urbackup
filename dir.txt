@@ -1,0 +1,463 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est BE53-0F35
+
+ R‚pertoire de C:\Program Files\UrBackupServer
+
+13/07/2025  17:44    <DIR>          .
+09/07/2025  19:25    <DIR>          ..
+28/02/2024  21:17               357 args.txt
+21/06/2019  16:19               208 assemble_disk_image.bat
+21/06/2019  16:19               464 cleanup.bat
+21/06/2019  16:19               423 cleanup_database.bat
+17/03/2024  11:39           818ÿ176 cryptoplugin.dll
+21/06/2019  16:19               422 defrag_database.bat
+13/07/2025  17:44                 0 dir.txt
+21/06/2019  16:19               299 export_auth_log.bat
+17/03/2024  11:33           411ÿ136 fileservplugin.dll
+17/03/2024  11:33           890ÿ368 fsimageplugin.dll
+17/03/2024  11:40           124ÿ416 httpserver.dll
+29/06/2025  09:47    <DIR>          imdisk
+21/06/2019  16:19            59ÿ867 license.txt
+17/03/2024  11:40           305ÿ664 luaplugin.dll
+21/06/2019  16:19               421 remove_unknown.bat
+21/06/2019  16:19               422 repair_database.bat
+21/06/2019  16:19               367 reset_pw.bat
+21/06/2019  16:19               210 uncompress_image.bat
+13/07/2025  12:49           221ÿ791 Uninstall.exe
+13/07/2025  12:49    <DIR>          urbackup
+13/07/2025  12:49           322ÿ064 urbackup.log
+18/03/2024  01:16         3ÿ744ÿ256 urbackupserver.dll
+21/06/2019  16:19               436 urbackup_ecdsa409k1.pub
+17/03/2024  11:41         1ÿ687ÿ040 urbackup_srv.exe
+17/03/2024  11:33           626ÿ688 urlplugin.dll
+              23 fichier(s)        9ÿ215ÿ495 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk
+
+29/06/2025  09:47    <DIR>          .
+13/07/2025  17:44    <DIR>          ..
+29/06/2025  09:47    <DIR>          awealloc
+29/06/2025  09:47    <DIR>          cli
+29/06/2025  09:47    <DIR>          cpl
+21/06/2019  16:22            18ÿ332 gpl.txt
+21/06/2019  16:22             5ÿ563 imdisk.inf
+21/06/2019  16:22           256ÿ174 imdisk_source_2.0.9.7z
+21/06/2019  16:22             2ÿ679 install.cmd
+21/06/2019  16:22                75 install_imdisk_silent.cmd
+21/06/2019  16:22             2ÿ048 msgboxw.exe
+21/06/2019  16:22             3ÿ026 readme.txt
+21/06/2019  16:22             3ÿ584 runwaitw.exe
+29/06/2025  09:47    <DIR>          svc
+29/06/2025  09:47    <DIR>          sys
+21/06/2019  16:22             1ÿ547 uninstall_imdisk.cmd
+21/06/2019  16:22                84 uninstall_imdisk_silent.cmd
+              10 fichier(s)          293ÿ112 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\awealloc
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+29/06/2025  09:47    <DIR>          amd64
+29/06/2025  09:47    <DIR>          i386
+29/06/2025  09:47    <DIR>          ia64
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\awealloc\amd64
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            21ÿ048 awealloc.sys
+               1 fichier(s)           21ÿ048 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\awealloc\i386
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            17ÿ592 awealloc.sys
+               1 fichier(s)           17ÿ592 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\awealloc\ia64
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            33ÿ848 awealloc.sys
+               1 fichier(s)           33ÿ848 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\cli
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+29/06/2025  09:47    <DIR>          amd64
+29/06/2025  09:47    <DIR>          i386
+29/06/2025  09:47    <DIR>          ia64
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\cli\amd64
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            51ÿ304 imdisk.exe
+               1 fichier(s)           51ÿ304 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\cli\i386
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            51ÿ304 imdisk.exe
+               1 fichier(s)           51ÿ304 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\cli\ia64
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            88ÿ168 imdisk.exe
+               1 fichier(s)           88ÿ168 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\cpl
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+29/06/2025  09:47    <DIR>          amd64
+29/06/2025  09:47    <DIR>          i386
+29/06/2025  09:47    <DIR>          ia64
+21/06/2019  16:22               674 imdisk.cpl.manifest
+               1 fichier(s)              674 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\cpl\amd64
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22           119ÿ920 imdisk.cpl
+               1 fichier(s)          119ÿ920 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\cpl\i386
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22           108ÿ656 imdisk.cpl
+               1 fichier(s)          108ÿ656 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\cpl\ia64
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22           200ÿ816 imdisk.cpl
+               1 fichier(s)          200ÿ816 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\svc
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+29/06/2025  09:47    <DIR>          amd64
+29/06/2025  09:47    <DIR>          i386
+29/06/2025  09:47    <DIR>          ia64
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\svc\amd64
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            19ÿ552 imdsksvc.exe
+               1 fichier(s)           19ÿ552 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\svc\i386
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            18ÿ528 imdsksvc.exe
+               1 fichier(s)           18ÿ528 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\svc\ia64
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            34ÿ912 imdsksvc.exe
+               1 fichier(s)           34ÿ912 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\sys
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+29/06/2025  09:47    <DIR>          amd64
+29/06/2025  09:47    <DIR>          i386
+29/06/2025  09:47    <DIR>          ia64
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\sys\amd64
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            48ÿ704 imdisk.sys
+               1 fichier(s)           48ÿ704 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\sys\i386
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22            41ÿ024 imdisk.sys
+               1 fichier(s)           41ÿ024 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\imdisk\sys\ia64
+
+29/06/2025  09:47    <DIR>          .
+29/06/2025  09:47    <DIR>          ..
+21/06/2019  16:22           115ÿ264 imdisk.sys
+               1 fichier(s)          115ÿ264 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup
+
+13/07/2025  12:49    <DIR>          .
+13/07/2025  17:44    <DIR>          ..
+29/06/2025  09:47        52ÿ428ÿ800 backup_server.db
+13/07/2025  12:49            32ÿ768 backup_server.db-shm
+13/07/2025  17:20           576ÿ832 backup_server.db-wal
+29/06/2025  09:47            16ÿ384 backup_server_files.db
+13/07/2025  12:49            32ÿ768 backup_server_files.db-shm
+29/06/2025  09:49                 0 backup_server_files.db-wal
+21/06/2019  16:19             2ÿ406 backup_server_init.sql
+29/06/2025  09:47            16ÿ384 backup_server_links.db
+13/07/2025  12:49            32ÿ768 backup_server_links.db-shm
+29/06/2025  09:49                 0 backup_server_links.db-wal
+29/06/2025  09:47             8ÿ192 backup_server_link_journal.db
+13/07/2025  12:49            32ÿ768 backup_server_link_journal.db-shm
+13/07/2025  12:49            57ÿ712 backup_server_link_journal.db-wal
+29/06/2025  09:47            61ÿ440 backup_server_settings.db
+13/07/2025  12:49            32ÿ768 backup_server_settings.db-shm
+13/07/2025  12:38            65ÿ952 backup_server_settings.db-wal
+13/07/2025  12:49               224 dataplan_db.txt
+29/06/2025  09:47    <DIR>          fileindex
+29/06/2025  09:47                23 server_ident.key
+29/06/2025  09:47               334 server_ident.priv
+29/06/2025  09:47               442 server_ident.pub
+29/06/2025  09:47                83 server_ident_ecdsa409k1.priv
+29/06/2025  09:47               128 server_ident_ecdsa409k1.pub
+29/06/2025  09:47                20 server_token.key
+13/07/2025  12:49                52 server_version_info.properties
+21/06/2019  16:19             1ÿ572 status.htm
+29/06/2025  09:47        46ÿ160ÿ589 UrBackupUpdate.exe
+29/06/2025  09:47                40 UrBackupUpdate.sig
+29/06/2025  09:47               102 UrBackupUpdate.sig2
+29/06/2025  09:48        26ÿ175ÿ201 UrBackupUpdateLinux.sh
+29/06/2025  09:47               102 UrBackupUpdateLinux.sig2
+29/06/2025  09:47                 3 version.txt
+29/06/2025  09:48                 3 version_linux.txt
+13/07/2025  12:49    <DIR>          www
+              32 fichier(s)      125ÿ736ÿ860 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\fileindex
+
+29/06/2025  09:47    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+13/07/2025  12:49         1ÿ048ÿ576 backup_server_files_index.lmdb
+29/06/2025  09:47           262ÿ144 backup_server_files_index.lmdb-lock
+               2 fichier(s)        1ÿ310ÿ720 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www
+
+13/07/2025  12:49    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+13/07/2025  12:49    <DIR>          css
+21/06/2019  16:19             1ÿ150 favicon.ico
+29/06/2025  09:47    <DIR>          fonts
+18/03/2024  22:41            15ÿ359 help.htm
+13/07/2025  12:55    <DIR>          images
+18/03/2024  22:41             7ÿ469 index.htm
+13/07/2025  12:49    <DIR>          js
+18/03/2024  22:41            61ÿ937 license.htm
+29/06/2025  09:47    <DIR>          swf
+               4 fichier(s)           85ÿ915 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\css
+
+13/07/2025  12:49    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+18/03/2024  22:41            29ÿ108 bootstrap-flat-extras.chash-958e73e0ffd138319a4c6be29fa24392.min.css
+21/06/2019  16:19            33ÿ322 bootstrap-flat-extras.css
+18/03/2024  22:41             8ÿ438 bootstrap-flat.chash-afad0eb464edab83aeb369684734541e.min.css
+21/06/2019  16:19             9ÿ700 bootstrap-flat.css
+18/03/2024  22:41             5ÿ965 bootstrap-select.chash-d2d8b0cbdd75333eb01a025abd0ed954.min.css
+17/03/2024  10:55             6ÿ991 bootstrap-select.css
+18/03/2024  22:41            23ÿ409 bootstrap-theme.chash-46d96593303e4c8666f497bb7602c999.min.css
+17/03/2024  10:55            26ÿ132 bootstrap-theme.css
+18/03/2024  22:41             1ÿ819 bootstrap-toggle.chash-e12db6c1f34cdb5b0151e54141174bf3.css
+28/02/2024  21:17             1ÿ590 bootstrap-toggle.min.css
+18/03/2024  22:41           121ÿ260 bootstrap.chash-2f624089c65f12185e79925bc5a7fc42.min.css
+17/03/2024  10:55           146ÿ082 bootstrap.css
+21/06/2019  16:19             2ÿ093 buttons.bootstrap.css
+18/03/2024  22:41             1ÿ735 buttons.chash-bd7652fc1398727918564c515096ee61.bootstrap.min.css
+21/06/2019  16:19             8ÿ082 buttons.dataTables.min.css
+21/06/2019  16:19             9ÿ107 datatable.css
+21/06/2019  16:19             4ÿ216 dataTables.bootstrap.min.css
+18/03/2024  22:41             4ÿ823 dataTables.chash-199ff38fd61a7e4516ee546eaa4c29c7.bootstrap.css
+21/06/2019  16:19             2ÿ956 dataTables.foundation.css
+21/06/2019  16:19             2ÿ608 dataTables.foundation.min.css
+18/03/2024  22:41             3ÿ522 jquery.chash-342e0312e9d353b3f19dbd50c28cd084.jqplot.min.css
+21/06/2019  16:19            15ÿ423 jquery.dataTables.css
+21/06/2019  16:19            13ÿ587 jquery.dataTables.min.css
+21/06/2019  16:19            14ÿ229 jquery.dataTables_themeroller.css
+17/03/2024  10:55             3ÿ449 layout.css
+18/03/2024  22:41             1ÿ458 nprogress.chash-9dc52b7dd289312c1437a3e66ca7662c.css
+21/06/2019  16:19             4ÿ357 select.bootstrap.css
+21/06/2019  16:19             3ÿ890 select.bootstrap.min.css
+21/06/2019  16:19             4ÿ104 select.dataTables.css
+21/06/2019  16:19             3ÿ657 select.dataTables.min.css
+18/03/2024  22:41               407 urbackup_extra.chash-3db0cfd0827ea1e31800d5d3479113e1.css
+              31 fichier(s)          517ÿ519 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\fonts
+
+29/06/2025  09:47    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+21/06/2019  16:19            20ÿ127 glyphicons-halflings-regular.eot
+21/06/2019  16:19           108ÿ738 glyphicons-halflings-regular.svg
+21/06/2019  16:19            45ÿ404 glyphicons-halflings-regular.ttf
+21/06/2019  16:19            23ÿ424 glyphicons-halflings-regular.woff
+21/06/2019  16:19            18ÿ028 glyphicons-halflings-regular.woff2
+               5 fichier(s)          215ÿ721 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\images
+
+13/07/2025  12:55    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+21/06/2019  16:19             3ÿ552 agplv3-155x51.png
+21/06/2019  16:19             2ÿ915 arr.png
+21/06/2019  16:19               944 background.png
+21/06/2019  16:19             1ÿ361 back_disabled.png
+21/06/2019  16:19             1ÿ379 back_enabled.png
+21/06/2019  16:19             1ÿ375 back_enabled_hover.png
+21/06/2019  16:19             1ÿ714 btn_donate_LG.gif
+21/06/2019  16:19             1ÿ363 forward_disabled.png
+21/06/2019  16:19             1ÿ380 forward_enabled.png
+21/06/2019  16:19             1ÿ379 forward_enabled_hover.png
+21/06/2019  16:19            32ÿ042 header.png
+21/06/2019  16:19           137ÿ260 header_new.png
+21/06/2019  16:19             1ÿ553 indicator.gif
+21/06/2019  16:19               347 progress.png
+21/06/2019  16:19               160 sort_asc.png
+21/06/2019  16:19               148 sort_asc_disabled.png
+21/06/2019  16:19               201 sort_both.png
+21/06/2019  16:19               158 sort_desc.png
+21/06/2019  16:19               146 sort_desc_disabled.png
+21/06/2019  16:19               921 stopwatch.png
+13/07/2025  12:55             1ÿ591 urbackup.png
+              21 fichier(s)          191ÿ889 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\js
+
+13/07/2025  12:49    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+18/03/2024  22:41            31ÿ418 bootstrap-select.chash-76ee99405563373864c57f9093c526eb.min.js
+17/03/2024  10:55            63ÿ853 bootstrap-select.js
+17/03/2024  10:55            35ÿ332 bootstrap-select.js.map
+18/03/2024  22:41             4ÿ129 bootstrap-toggle.chash-4f3a8e499de27e992b7f0e0f92de3491.min.js
+28/02/2024  21:17             5ÿ538 bootstrap-toggle.js
+28/02/2024  21:17             4ÿ106 bootstrap-toggle.min.js.map
+18/03/2024  22:41            36ÿ868 bootstrap.chash-c5b5b2fa19bd66ff23211d9f844e0131.min.js
+17/03/2024  10:55            68ÿ954 bootstrap.js
+21/06/2019  16:19             1ÿ400 buttons.bootstrap.js
+18/03/2024  22:41            20ÿ463 buttons.chash-0da44ded2aaff1f0c13606600a4cd330.html5.min.js
+18/03/2024  22:41               939 buttons.chash-ac22ff642b7e893d1481c3746e3a727e.bootstrap.min.js
+18/03/2024  22:41             1ÿ694 buttons.chash-cd927381496c412f4693bd9d9ee033f4.print.min.js
+18/03/2024  22:41             2ÿ564 buttons.chash-ce3122eaca7ccb19e44dee7dda4d64a2.colVis.min.js
+18/03/2024  22:41            21ÿ956 buttons.chash-fc6a8c2af5e96d74874f6a0d3cd423cb.flash.min.js
+21/06/2019  16:19             4ÿ942 buttons.colVis.js
+21/06/2019  16:19            40ÿ135 buttons.flash.js
+21/06/2019  16:19            38ÿ560 buttons.html5.js
+21/06/2019  16:19             3ÿ922 buttons.print.js
+21/06/2019  16:19             4ÿ544 dataTables.bootstrap.js
+21/06/2019  16:19            39ÿ018 dataTables.buttons.js
+18/03/2024  22:41             1ÿ960 dataTables.chash-63b062ca2b0c3f964a6441b525195161.bootstrap.min.js
+18/03/2024  22:41            11ÿ054 dataTables.chash-dfe1352a782465f67d37ecfcd42fab61.select.min.js
+18/03/2024  22:41            15ÿ653 dataTables.chash-ee4a3855817393103a592c0a1c25d8f2.buttons.min.js
+21/06/2019  16:19             4ÿ331 dataTables.foundation.js
+21/06/2019  16:19             2ÿ090 dataTables.foundation.min.js
+21/06/2019  16:19            29ÿ935 dataTables.select.js
+18/03/2024  22:41               523 default_user_rights.chash-1a8afe1e5f52805d53eeec839bdec544.js
+18/03/2024  22:41           110ÿ418 dust-full.chash-54ec13e05caf3890b67b71bdddab23c1.js
+17/03/2024  10:55            36ÿ098 dust-full.min.js
+21/06/2019  16:19            19ÿ589 excanvas.min.js
+21/06/2019  16:19             9ÿ779 jqplot.categoryAxisRenderer.min.js
+18/03/2024  22:41             7ÿ556 jqplot.chash-1c19ea0ae42de58f92fe80d31965ea3e.highlighter.min.js
+18/03/2024  22:41            10ÿ067 jqplot.chash-20dac64191d3b8450e8c18be524e1005.dateAxisRenderer.min.js
+18/03/2024  22:41            13ÿ647 jqplot.chash-40f1b3ee3c1b1d475b7c556685f4176e.pieRenderer.min.js
+18/03/2024  22:41            13ÿ424 jqplot.chash-a4e0feecabf098441472baf28dc5b76a.barRenderer.min.js
+18/03/2024  22:41             1ÿ782 jquery.chash-0e0645f8b1c2b9e45470add2df1214b4.base64.min.js
+18/03/2024  22:41           172ÿ482 jquery.chash-565d85c1c1f639919008b8e867faabeb.jqplot.min.js
+18/03/2024  22:41            43ÿ247 jquery.chash-56be28a1645466dc675d2a204fca015c.sparkline.min.js
+18/03/2024  22:41            82ÿ638 jquery.chash-68e14434ba097ba3db4f0a1b3041842e.dataTables.min.js
+18/03/2024  22:41            97ÿ361 jquery.chash-9f7c65c84c8e8c3e317945e8fd89899b.js
+21/06/2019  16:19           447ÿ282 jquery.dataTables.js
+18/03/2024  22:41             5ÿ139 md5.chash-d2f5c8d867ed90851ef4e7b98616c364.js
+21/06/2019  16:19               484 npm.js
+18/03/2024  22:41            11ÿ565 nprogress.chash-5fc208df77427b19a1558ee3c2e2d344.js
+18/03/2024  22:41            25ÿ092 sjcl.chash-c34b81d9a619f2cd9f09bf75eb160625.js
+23/12/2022  18:07           178ÿ320 templates.chash-82494f3fe51677d4f4d718d27f611062.js
+18/03/2024  22:41           178ÿ329 templates.chash-f1be253b56f072b60921630ff50ac909.js
+11/08/2023  22:40           421ÿ830 templates.js.new
+23/12/2022  18:07           813ÿ196 translation.chash-10e0e20a34cbffda033b31d6ea65a823.js
+18/03/2024  22:41           843ÿ675 translation.chash-55c63d942b127686fcc28b2f2df7b8b3.js
+16/04/2023  21:38           818ÿ486 translation.js.orig
+23/12/2022  18:07           155ÿ783 urbackup.chash-8a7175c028fce2af7fc61406edb8c653.js
+18/03/2024  22:41           156ÿ489 urbackup.chash-a14ef54c45978201f5ff10de8074e333.js
+16/04/2023  21:19           333ÿ935 urbackup.js.orig
+18/03/2024  22:41            21ÿ334 urbackup_functions.chash-98c3f5649cb6de638d6c1ea5df75ce5c.js
+13/07/2025  12:49    <DIR>          vs
+              55 fichier(s)        5ÿ524ÿ908 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\js\vs
+
+13/07/2025  12:49    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+13/07/2025  12:49    <DIR>          base
+13/07/2025  12:49    <DIR>          basic-languages
+13/07/2025  12:49    <DIR>          editor
+18/03/2024  22:41            26ÿ999 loader.chash-7bbdd9ad3da370f14fe85315b79133b3.js
+               1 fichier(s)           26ÿ999 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\js\vs\base
+
+13/07/2025  12:49    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+13/07/2025  12:49    <DIR>          worker
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\js\vs\base\worker
+
+13/07/2025  12:49    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+17/03/2024  10:55           138ÿ528 workerMain.js
+               1 fichier(s)          138ÿ528 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\js\vs\basic-languages
+
+13/07/2025  12:49    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+13/07/2025  12:49    <DIR>          src
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\js\vs\basic-languages\src
+
+13/07/2025  12:49    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+17/03/2024  10:55             2ÿ452 lua.js
+               1 fichier(s)            2ÿ452 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\js\vs\editor
+
+13/07/2025  12:49    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+17/03/2024  10:55           168ÿ150 editor.main.css
+17/03/2024  10:55         1ÿ601ÿ820 editor.main.js
+17/03/2024  10:55            14ÿ091 editor.main.nls.js
+               3 fichier(s)        1ÿ784ÿ061 octets
+
+ R‚pertoire de C:\Program Files\UrBackupServer\urbackup\www\swf
+
+29/06/2025  09:47    <DIR>          .
+13/07/2025  12:49    <DIR>          ..
+21/06/2019  16:19            64ÿ573 flashExport.swf
+               1 fichier(s)           64ÿ573 octets
+
+     Total des fichiers list‚sÿ:
+             206 fichier(s)      146ÿ080ÿ066 octets
+             107 R‚p(s)  78ÿ987ÿ866ÿ112 octets libres
