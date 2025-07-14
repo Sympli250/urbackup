@@ -1,0 +1,10 @@
+*.web.vodafone.de 500
+*.dyn.telefonica.de 1000
+*.rr.com -1
+*.pool.telefonica.de -1
+*.kabel-badenwuerttemberg.de -1
+*.cablesurf.de -1
+*.kabel-deutschland.de -1
+*.t-ipconnect.de -1
+*.inexio.net -1
+*.adsl.highway.telekom.at -1
